@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<root>
+<!-- This is a comment -->
+<person gender="female">
+  <firstname>Anna</firstname>
+  <lastname>Smith</lastname>
+</person>
+</root>
