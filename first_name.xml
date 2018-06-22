@@ -3,6 +3,6 @@
 <!-- This is a comment -->
 <person gender="female">
   <firstname>Anna</firstname>
-  <lastname>Smith</lastname>
+  <lastname>Simon</lastname>
 </person>
 </root>
